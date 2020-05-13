@@ -27,7 +27,7 @@ public static void main(String[] args) {
 Kennya_Clarissa est = new Kennya_Clarissa ();
 
 
-est.carnet= 1234;
+est.carnet= 45687;
 est.nombre ="Amelia";
 est.apellido ="Rosales";
 
